@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Uvod}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Motivacija}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Cilj}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Struktura rada}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Upoznavanje sa podacima}{}% 5
+\BOOKMARK [1][-]{section.3}{Pretprocesiranje podataka}{}% 6
+\BOOKMARK [1][-]{section.4}{Klasterovanje}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{K-Means algoritam}{section.4}% 8
+\BOOKMARK [3][-]{subsubsection.4.1.1}{K-Means, Year}{subsection.4.1}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.2}{K-Means, Month}{subsection.4.1}% 10
+\BOOKMARK [3][-]{subsubsection.4.1.3}{K-Means, Day}{subsection.4.1}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Kohonen}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Hijerarhijsko klasterovanje}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{DBSCAN algoritam}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Zakljucak}{}% 15
